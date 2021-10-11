@@ -1,4 +1,4 @@
-# Conversor de Moedas
+# Conversor de moedas.
 
 A new Flutter project.
 
